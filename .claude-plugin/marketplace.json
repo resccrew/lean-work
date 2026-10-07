@@ -1,9 +1,10 @@
 {
-  "name": "claude-economy",
+  "name": "lean-work",
   "owner": { "name": "resccrew" },
+  "description": "Lean Claude Code: fewer limits burned, same or better quality.",
   "plugins": [
     {
-      "name": "claude-economy",
+      "name": "lean-work",
       "source": "./",
       "description": "Меньше расход лимитов в Claude Code без потери качества: триаж задачи, маршрутизация по моделям, чистый контекст."
     }

@@ -1,4 +1,4 @@
-# claude-economy
+# lean-work
 
 Плагин для Claude Code: тот же результат (или лучше) при меньшем расходе лимитов.
 
@@ -12,8 +12,8 @@
 ## Установка
 
 ```
-/plugin marketplace add resccrew/claude-economy
-/plugin install claude-economy@claude-economy
+/plugin marketplace add resccrew/lean-work
+/plugin install lean-work@lean-work
 ```
 
 Локально, без GitHub: `claude --plugin-dir <путь к этой папке>`.

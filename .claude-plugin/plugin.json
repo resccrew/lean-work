@@ -1,6 +1,7 @@
 {
-  "name": "claude-economy",
+  "name": "lean-work",
   "version": "0.1.0",
+  "author": { "name": "resccrew" },
   "description": "Меньше расход лимитов в Claude Code без потери качества: триаж задачи, маршрутизация по моделям, чистый контекст.",
   "skills": "./skills"
 }
