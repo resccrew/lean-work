@@ -1,0 +1,11 @@
+{
+  "name": "claude-economy",
+  "owner": { "name": "resccrew" },
+  "plugins": [
+    {
+      "name": "claude-economy",
+      "source": "./",
+      "description": "Меньше расход лимитов в Claude Code без потери качества: триаж задачи, маршрутизация по моделям, чистый контекст."
+    }
+  ]
+}
